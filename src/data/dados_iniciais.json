@@ -1,50 +1,39 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "The Mysterious",
+      "link": "https://www.instagram.com/themysterious.art/",
+      "cor": "var(--black)",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Fazemos os mistérios dos momentos ganharem movimento ™",
+        "url": "https://www.youtube.com/channel/UCtvetCwo2bCr_idqPzcJiWQ"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=VhNW7fE3dNU"
+          "titulo": "Fernanda Degolin",
+          "url": "https://www.youtube.com/watch?v=BWcZeq13lug&has_verified=1"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "vazio | the mysterious™",
+          "url": "https://www.youtube.com/watch?v=g69Qo572pOQ&t=20s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "o universo em nós | the mysterious™",
+          "url": "https://www.youtube.com/watch?v=AuJ4G2jxuGo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "#01 - teaser II | the mysterious",
+          "url": "https://www.youtube.com/watch?v=Si4AjHl1aK0"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "T#00 - teaser | the mysterious™",
+          "url": "https://www.youtube.com/watch?v=QDcfr_dywR0"
+        }
+        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Curtas Metragens",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -74,7 +63,7 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Demo Reels",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
