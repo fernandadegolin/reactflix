@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "The Mysterious",
+            "descricao": "Fazemos os mistérios dos momentos ganharem movimento ™",
+            "cor": "var(--black)"
+        },
+        {
+            "id": 2,
+            "nome": "Curtas Metragens",
+            "descricao": "Fazemos os mistérios dos momentos ganharem movimento ™",
+            "cor": "var(--black)"
+        }
+    ]
+}

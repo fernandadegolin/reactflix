@@ -2,7 +2,7 @@ import styled from "styled-components";
 import {Link} from "react-router-dom";
 
 const Button = styled(Link)`
-    color: var(--white);
+    color: #555759;
     border: 1px solid var(--white);
     box-sizing: border-box;
     cursor: pointer;
@@ -18,8 +18,8 @@ const Button = styled(Link)`
 
     &:hover,
     &:focus {
-        border: 1px solid #dc2927;
-        color: #dc2927;
+        border: 1px solid #BFB9AE;
+        color: #BFB9AE;
     }
 `;
 
