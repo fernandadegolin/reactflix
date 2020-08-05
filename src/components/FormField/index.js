@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import styled, { css } from 'styled-components';
 
 const FormFieldWrapper = styled.div`
+
     position: relative;
     
     textarea {
@@ -11,7 +12,11 @@ const FormFieldWrapper = styled.div`
 
     input[type="color"] {
         padding-left: 17px;
-        width: 5%;
+        width: 10%;
+
+        @media (max-width: 800px) {
+        width: 30%;
+}
     }
 `;
 
@@ -37,6 +42,10 @@ const Label = styled.label``;
 `;
 
 const Input = styled.input`
+@media (max-width: 800px) {
+  width: 100%;
+}
+
   background: #F2F2F2;
   color: #555759;
   display: flex;
@@ -74,7 +83,9 @@ const Input = styled.input`
         }
       `;
   }
+  
 }
+
 `;
 
 function FormField({
