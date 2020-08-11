@@ -31,19 +31,37 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    if(window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias'; 
-      fetch(URL)
+    const URL_TOP = window.location.hostname.includes('localhost')
+    ? 'http://localhost:8080/categorias'
+    : 'https://fernandadegolin.herokuapp.com/categorias'
+    
+      fetch(URL_TOP)
        .then(async (respostaDoServer) =>{
-        if(respostaDoServer.ok) {
+        
           const resposta = await respostaDoServer.json();
-          setCategorias(resposta);
-          return; 
-        }
-        throw new Error('Não foi possível pegar os dados');
-       })
-    }    
-  }, []);
+          setCategorias([
+            ...resposta,
+          ]);
+        });
+
+    // setTimeout(() => {
+    //   setCategorias([
+    //     ...categorias,
+    //     {
+    //       id: 1,
+    //       nome: 'Front End',
+    //       descricao: 'Uma categoria bacanudassa',
+    //       cor: '#cbd1ff',
+    //     },
+    //     {
+    //       id: 2,
+    //       nome: 'Back End',
+    //       descricao: 'Outra categoria bacanudassa',
+    //       cor: '#cbd1ff',
+    //     },
+    //   ]);
+    // }, 4 * 1000);
+      }, []);
 
   return (
       <PageDefault>
@@ -88,11 +106,18 @@ function CadastroCategoria() {
         </Button>
         </form>
 
+        {categorias.length === 0 && (
+        <div>
+          {/* Cargando... */}
+          Loading...
+        </div>
+      )}
+
 
     <ul>
-        {categorias.map((categoria, indice) => {
+        {categorias.map((categoria) => {
           return (
-            <li key={`${categoria}${indice}`}>
+            <li key={`${categoria.titulo}`}>
               {categoria.titulo}
             </li>
           )
