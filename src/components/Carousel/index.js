@@ -1,8 +1,8 @@
 import React from 'react';
-import { VideoCardGroupContainer, VideoCardList, Title, ExtraLink } from './styles';
+import { VideoCardGroupContainer, Title, ExtraLink } from './styles';
 import VideoCard from './components/VideoCard';
-
 import Slider, { SliderItem } from './components/Slider';
+
 
 function Carousel({
   ignoreFirstVideo,
@@ -19,13 +19,14 @@ function Carousel({
           <Title style={{ backgroundColor: categoryColor || 'red' }}>
             {categoryTitle}
           </Title>
-          {categoryExtraLink && 
+          {categoryExtraLink && (
             <ExtraLink href={categoryExtraLink.url} target="_blank">
               {categoryExtraLink.text}  
             </ExtraLink>
-          }
+          )}
         </>
       )}
+
       <Slider>
         {videos.map((video, index) => {
           if (ignoreFirstVideo && index === 0) {
@@ -40,11 +41,11 @@ function Carousel({
                 categoryColor={categoryColor}
               />
             </SliderItem>
-          );
+          )
         })}
       </Slider>
     </VideoCardGroupContainer>
-  );
+  )
 }
 
 export default Carousel;

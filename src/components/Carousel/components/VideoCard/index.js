@@ -6,7 +6,7 @@ function getYouTubeId(youtubeURL) {
     .replace(
       /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/,
       '$7',
-    );
+    )
 }
 
 
@@ -20,7 +20,7 @@ function VideoCard({ videoTitle, videoURL, categoryColor }) {
       style={{ borderColor: categoryColor || 'red' }}
       title={videoTitle}
     />
-  );
+  )
 }
 
 export default VideoCard;

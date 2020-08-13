@@ -12,9 +12,9 @@ function Menu() {
         <img className="Logo" src={Logo} alt="logo da Fernanda Degolin" />
       </Link>
 
-      <Button as={Link} className="ButtonLink" to="/cadastro/video">
+      {<Button as={Link} className="ButtonLink" to="/cadastro/video">
         Novo Vídeo
-      </Button>
+      </Button>}
     </nav>
   );
 }

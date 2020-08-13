@@ -12,15 +12,15 @@
         {
             "id": 2,
             "titulo": "Curtas Metragens",
-            "cor": "var(--white)",
+            "cor": "black",
             "link_extra": {
-                "text": "colocar um texto legal aqui",
+                "text": "bla bla bla",
                 "url": ""
             }
         },
         {
             "id": 3,
-            "titulo": "Data Science e Inteligência Artificial",
+            "titulo": "Longas Metragens",
             "cor": "#9cd33b",
             "link_extra": {
                 "text": "Cursos de Data Science na Alura",
@@ -29,12 +29,12 @@
         },
         {
             "id": 4,
-            "titulo": "Filmes",
+            "titulo": "Demo Reel",
             "cor": "orange"
         },
         {
             "id": 5,
-            "titulo": "Games",
+            "titulo": "Estúdio",
             "cor": "red",
             "link_extra": {
                 "text": "Formação de Jogos na Alura",
@@ -46,14 +46,14 @@
         {
             "id": 1,
             "categoriaId": 1,
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Fernanda Degolin",
+            "url": "https://youtu.be/4J7TakqAbOQ"
         },
         {
             "id": 2,
             "categoriaId": 1,
-            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+            "titulo": "HAUSHUAHSUAHSUAHUHSAUHS",
+            "url": "https://www.youtube.com/watch?v=g69Qo572pOQ&t=36s"
         },
         {
             "id": 3,
