@@ -6,13 +6,13 @@ import Logo from '../../assets/img/Logo.png';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://fernandadegolin.github.io/fernandadegolin/" target="_blank">
+      <a href="https://fernandadegolin.github.io/fernandadegolin/">
         <img className="Logo" src={Logo} alt="Logo Alura" />
       </a>
       <p>
       built by 
         {' '}
-        <a href="https://fernandadegolin.github.io/fernandadegolin/" target="_blank">
+        <a href="https://fernandadegolin.github.io/fernandadegolin/">
         Fernanda Degolin - 2020 
         </a>
       </p>
