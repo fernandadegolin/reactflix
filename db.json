@@ -3,42 +3,46 @@
         {
             "id": 1,
             "titulo": "The Mysterious",
-            "cor": "var(--black)",
+            "cor": "var(--um)",
             "link_extra": {
                 "text": "Fazemos os mistérios dos momentos ganharem movimento ™",
-                "url": ""
+                "url": "https://www.instagram.com/themysterious.art"
             }
         },
         {
             "id": 2,
             "titulo": "Curtas Metragens",
-            "cor": "black",
+            "cor": "var(--dois)",
             "link_extra": {
-                "text": "bla bla bla",
+                "text": "",
                 "url": ""
             }
         },
         {
             "id": 3,
             "titulo": "Longas Metragens",
-            "cor": "#9cd33b",
+            "cor": "var(--tres)",
             "link_extra": {
-                "text": "Cursos de Data Science na Alura",
-                "url": "https://www.alura.com.br/cursos-online-mobile"
+                "text": "",
+                "url": ""
             }
         },
         {
             "id": 4,
             "titulo": "Demo Reel",
-            "cor": "orange"
+            "cor": "var(--quatro)",
+            "link_extra": {
+                "text": "",
+                "url": ""
+            }
         },
         {
             "id": 5,
             "titulo": "Estúdio",
-            "cor": "red",
+            "cor": "var(--cinco)",
             "link_extra": {
-                "text": "Formação de Jogos na Alura",
-                "url": "https://www.alura.com.br/cursos-online-front-end"
+                "text": "",
+                "url": ""
             }
         }
     ],
@@ -52,36 +56,36 @@
         {
             "id": 2,
             "categoriaId": 1,
-            "titulo": "HAUSHUAHSUAHSUAHUHSAUHS",
-            "url": "https://www.youtube.com/watch?v=g69Qo572pOQ&t=36s"
+            "titulo": "#03 - v a z i o ",
+            "url": "https://www.youtube.com/watch?v=g69Qo572pOQ&t"
         },
         {
             "id": 3,
             "categoriaId": 1,
-            "titulo": "Componentização com VanillaJS #AluraMais",
-            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+            "titulo": "#02 - o universo em nós",
+            "url": "https://www.youtube.com/watch?v=AuJ4G2jxuGo"
         },
         {
             "id": 4,
             "categoriaId": 1,
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+            "titulo": "#01 - teaser II",
+            "url": "https://www.youtube.com/watch?v=Si4AjHl1aK0"
         },
         {
             "id": 5,
             "categoriaId": 1,
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+            "titulo": "#00 - teaser I",
+            "url": "https://www.youtube.com/watch?v=QDcfr_dywR0"
         },
         {
             "id": 6,
-            "categoriaId": 1,
+            "categoriaId": 2,
             "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
             "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
             "id": 7,
-            "categoriaId": 1,
+            "categoriaId": 2,
             "titulo": "Novidades do Angular v9",
             "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
         },
