@@ -16,7 +16,7 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 </div>
 
 <div  align="center">
-  <img width="80" src="https://ik.imagekit.io/fernandadegolin/fe_ubZ9V1aBl.png" />
+  <img width="80" src="https://ik.imagekit.io/fernandadegolin/Component_1__3__XRs7XshHa.png" />
   
 <!-- Site -->
 <p align="center">
