@@ -1,4 +1,4 @@
-### Projeto React
+## Projeto React
 
 Um experimento com base na navegação do Netflix, recriando o painel da tela inicial.
 
@@ -8,7 +8,7 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 <h1></h2>
 <div  align="center">
-  <img margin-top="20px" width="" src="https://user-images.githubusercontent.com/57417305/82046959-52608f80-9688-11ea-8a4a-83d6716fbb8b.gif" />
+  <img margin-top="20px" width="" src="" />
 </div>
 
 <div  align="center">
