@@ -4,7 +4,8 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 <br></br>
 
-##### <p align="center">Recriação do portfólio de atuação</p>
+<img width="80" src=https://github.com/fernandadegolin/reactflix/blob/master/public/logo192.png/>
+<p>Recriação do portfólio de atuação</p>
 <br>
 
 <br>
