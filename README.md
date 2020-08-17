@@ -4,10 +4,7 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 <br></br>
 
-<
-<div  align="center">
-  <p>Reacriação do portfólio de atuação</p>
-</div>
+### <p align="center">Recriação do portfólio de atuação</p>
 <br>
 <br>
 <br>
