@@ -1,6 +1,7 @@
 ## Projeto React
 
 Um experimento com base na navegação do Netflix, recriando o painel da tela inicial.
+<br><br>
 
 <div>
 <img width="80" src=https://github.com/fernandadegolin/reactflix/blob/master/public/logo192.png/>
