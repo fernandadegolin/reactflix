@@ -1,12 +1,13 @@
 ## Projeto React
 
-Um experimento com base na navegação do Netflix, recriando o painel da tela inicial.
+Um experimento com base na navegação do Netflix, recriando o painel da tela inicial e dando lugar aos trabalhos da atriz.
+<br>
+#### Pegue a pipoca que será divertido.
 <br><br>
 
 <div>
 <img width="80" src=https://github.com/fernandadegolin/reactflix/blob/master/public/logo192.png/>
-<p>Recriação do portfólio de atuação</p>
- </div>
+</div>
 <br>
 
 <br>
