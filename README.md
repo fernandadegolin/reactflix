@@ -10,14 +10,20 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 <br>
 
 
+### Mobile
+<p align="center">
+<img src="https://ik.imagekit.io/fernandadegolin/Gravac_a_o-de-Tela-2020-08-17-a_s-17.26.39_BlXIte4wo.gif">
+</p>
+
 
 <br>
 <div  align="center">
   <img src="https://ik.imagekit.io/fernandadegolin/Component_1__3__XRs7XshHa.png" />
 </div>
 
+<br></br>
 <div  align="center">
-  <img margin-bottom:"20px" width="80" src="https://ik.imagekit.io/fernandadegolin/fe_ubZ9V1aBl.png" />
+  <img margin-top:"20px" width="80" src="https://ik.imagekit.io/fernandadegolin/fe_ubZ9V1aBl.png" />
   
 <!-- Site -->
 <p align="center">
