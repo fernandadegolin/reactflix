@@ -8,7 +8,7 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 <h1></h2>
 <div  align="center">
-  <img margin-top="20px" width="" src="" />
+  <img margin-top="20px" width="" src="https://ik.imagekit.io/fernandadegolin/Gravac_a_o-de-Tela-2020-08-17-a_s-17.26.39_BlXIte4wo.gif" />
 </div>
 
 <div  align="center">
