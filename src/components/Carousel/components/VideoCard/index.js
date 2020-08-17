@@ -24,3 +24,4 @@ function VideoCard({ videoTitle, videoURL, categoryColor }) {
 }
 
 export default VideoCard;
+

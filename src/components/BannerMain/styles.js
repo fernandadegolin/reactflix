@@ -120,6 +120,7 @@ export const WatchButton = styled.button`
     margin: 0 auto;
     width: 8em;
     text-transform: uppercase;
+    text-align: center;
   
   @media (max-width: 800px) {
     display: block;
