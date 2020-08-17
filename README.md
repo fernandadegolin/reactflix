@@ -1,12 +1,17 @@
 ## Projeto React
 
 Um experimento com base na navegação do Netflix, recriando o painel da tela inicial.
-
-<br></br>
-
 <img width="80" src=https://github.com/fernandadegolin/reactflix/blob/master/public/logo192.png/>
 <p>Recriação do portfólio de atuação</p>
 <br>
+
+<br>
+<div>
+<a href="https://ibb.co/ynHNRG7"><img src="https://i.ibb.co/d08fc1x/Gravac-a-o-de-Tela-2020-08-17-a-s-17-26-39.gif" alt="GIF de navegação" align="center" border="0"></a>
+</div>
+<br></br>
+
+
 
 <br>
 <div  align="center">
