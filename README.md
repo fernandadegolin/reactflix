@@ -2,8 +2,19 @@
 
 Um experimento com base na navegação do Netflix, recriando o painel da tela inicial.
 
+<br></br>
+
+<
+<div  align="center">
+  <p>Reacriação do portfólio de atuação</p>
+</div>
+<br>
+<br>
+<br>
 
 
+
+<br>
 <div  align="center">
   <img src="https://ik.imagekit.io/fernandadegolin/Component_1__3__XRs7XshHa.png" />
 </div>
