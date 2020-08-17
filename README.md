@@ -4,13 +4,6 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 
 
-
-
-<h1></h2>
-<div  align="center">
-  <img margin-top="20px" src="https://ibb.co/ynHNRG7.gif" />
-</div>
-
 <div  align="center">
   <img src="https://ik.imagekit.io/fernandadegolin/Component_1__3__XRs7XshHa.png" />
 </div>
@@ -28,7 +21,7 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fernandadegolin/">
-    <img alt="LinkedIn" src="https://img.shields.io/twitter/url?label=logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernandadegolin%2F">
+    <img alt="LinkedIn" src="https://img.shields.io/twitter/url?label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffernandadegolin%2F">
   </a>
 
 <!-- Twitter -->
