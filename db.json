@@ -11,10 +11,10 @@
         },
         {
             "id": 2,
-            "titulo": "Curtas Metragens",
+            "titulo": "Curta Metragens",
             "cor": "var(--dois)",
             "link_extra": {
-                "text": "",
+                "text": "Historias longas em formatos breves",
                 "url": "https://www.instagram.com/fernandadegolin/"
             }
         },
@@ -32,7 +32,7 @@
             "titulo": "Estúdio",
             "cor": "var(--quatro)",
             "link_extra": {
-                "text": "",
+                "text": "Estudos com Direção de Alexandre Klemperer",
                 "url": "https://www.instagram.com/fernandadegolin/"
             }
         },
