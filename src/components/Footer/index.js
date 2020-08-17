@@ -7,7 +7,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://fernandadegolin.github.io/fernandadegolin/">
-        <img className="Logo" src={Logo} alt="Logo Alura" />
+        <img className="Logo" src={Logo} alt="Logo" />
       </a>
       <p>
       built by 

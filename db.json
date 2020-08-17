@@ -15,34 +15,34 @@
             "cor": "var(--dois)",
             "link_extra": {
                 "text": "",
-                "url": ""
+                "url": "https://www.instagram.com/fernandadegolin/"
             }
         },
         {
             "id": 3,
-            "titulo": "Longas Metragens",
+            "titulo": "Projeto Ator",
             "cor": "var(--tres)",
             "link_extra": {
-                "text": "",
-                "url": ""
+                "text": "Vida de Ator contada de uma forma bem-humorada",
+                "url": "https://www.instagram.com/fernandadegolin/"
             }
         },
         {
             "id": 4,
-            "titulo": "Demo Reel",
+            "titulo": "Estúdio",
             "cor": "var(--quatro)",
             "link_extra": {
                 "text": "",
-                "url": ""
+                "url": "https://www.instagram.com/fernandadegolin/"
             }
         },
         {
             "id": 5,
-            "titulo": "Estúdio",
+            "titulo": "Making of",
             "cor": "var(--cinco)",
             "link_extra": {
-                "text": "",
-                "url": ""
+                "text": "Aqueles erros gostosinhos da vida",
+                "url": "https://www.instagram.com/fernandadegolin/"
             }
         }
     ],
@@ -80,116 +80,146 @@
         {
             "id": 6,
             "categoriaId": 2,
-            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+            "titulo": "Chronos",
+            "url": "https://www.youtube.com/watch?v=m-W4ad97Ua0&t"
         },
         {
             "id": 7,
             "categoriaId": 2,
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+            "titulo": "Ablepsia",
+            "url": "https://www.youtube.com/watch?v=H3K0wAnuuXk&t"
         },
         {
             "id": 8,
             "categoriaId": 2,
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+            "titulo": "O despertar que já se foi!",
+            "url": "https://www.youtube.com/watch?v=Jk0KFCMxeVc"
         },
         {
             "id": 9,
             "categoriaId": 2,
-            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+            "titulo": "Escolhas",
+            "url": "https://www.youtube.com/watch?v=6CN6zdiICmc&t"
         },
         {
             "id": 10,
             "categoriaId": 2,
-            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+            "titulo": "Síndrome de Estolcomo ",
+            "url": "https://www.youtube.com/watch?v=TblTUG61-1I"
         },
         {
             "id": 11,
             "categoriaId": 2,
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+            "titulo": "Corujas",
+            "url": "https://www.youtube.com/watch?v=aakjS69SySU"
         },
         {
             "id": 12,
             "categoriaId": 2,
-            "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "titulo": "Extremos",
+            "url": "https://www.youtube.com/watch?v=D3WU6XBPmrg"
         },
         {
             "id": 13,
-            "categoriaId": 3,
-            "titulo": "Teste de Turing",
-            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+            "categoriaId": 2,
+            "titulo": "O Declive",
+            "url": "https://www.youtube.com/watch?v=s7IBnpv69n8"
         },
         {
             "id": 14,
             "categoriaId": 3,
-            "titulo": "O que é Data Science?",
-            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+            "titulo": "#1 - O filme - VIDA DE ATOR",
+            "url": "https://youtu.be/Py7wJzzbb9c"
         },
         {
             "id": 15,
             "categoriaId": 3,
-            "titulo": "Melhor forma de aprender Python",
-            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+            "titulo": "#2 - Ele não está afim de chorar",
+            "url": "https://youtu.be/OsUWG33qzYU"
         },
         {
             "id": 16,
             "categoriaId": 3,
-            "titulo": "Como ingressar no mercado de Data Science?",
-            "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+            "titulo": "#3 - Atuando no Relacionamento",
+            "url": "https://youtu.be/KljXNZpfowY"
         },
         {
             "id": 17,
-            "categoriaId": 4,
-            "titulo": "Interestellar",
-            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+            "categoriaId": 3,
+            "titulo": "#4 - Atuando no Escritório",
+            "url": "https://youtu.be/jXNehl3Fxz4"
         },
         {
             "id": 18,
-            "categoriaId": 4,
-            "titulo": "Gattaca",
-            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+            "categoriaId": 3,
+            "titulo": "#5 - E se não existisse perfil de ator/atriz?",
+            "url": "https://youtu.be/deYl5V0D7Tg"
         },
         {
             "id": 19,
             "categoriaId": 4,
-            "titulo": "A Chegada",
-            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+            "titulo": "#1 - Entre amigos",
+            "url": "https://youtu.be/V7iTj3lc_rY"
         },
         {
             "id": 20,
             "categoriaId": 4,
-            "titulo": "Feitiço do Tempo",
-            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+            "titulo": "#2 - Irmã Dulce",
+            "url": "https://youtu.be/xZKTZuHed6Y"
         },
         {
             "id": 21,
-            "categoriaId": 5,
-            "titulo": "Final Fantasy 7",
-            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+            "categoriaId": 4,
+            "titulo": "#3 - Prestativa",
+            "url": "https://youtu.be/NwSjwTFfOAY"
         },
         {
             "id": 22,
-            "categoriaId": 5,
-            "titulo": "Assassins Creed Valhalla",
-            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+            "categoriaId": 4,
+            "titulo": "Cena Final - E Assim é...",
+            "url": "https://youtu.be/aFGaG0-_ud0"
         },
         {
             "id": 23,
             "categoriaId": 5,
-            "titulo": "God of War 4",
-            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+            "titulo": "Irmã SAFADA Dulce",
+            "url": "https://youtu.be/Hwc-wQ3dljo"
         },
         {
             "id": 24,
             "categoriaId": 5,
-            "titulo": "Resident Evil 8",
-            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+            "titulo": "#01 - Demo Reel",
+            "url": "https://www.youtube.com/watch?v=U6C4zL6TLAM"
+        },
+        {
+            "id": 25,
+            "categoriaId": 5,
+            "titulo": "BLUR - Em busca de sentidos",
+            "url": "https://www.youtube.com/watch?v=43C_Wk9Vv_0"
+        },
+        {
+            "id": 26,
+            "categoriaId": 5,
+            "titulo": "Elas Preferem os Fofos",
+            "url": "https://www.youtube.com/watch?v=-KHbArbg6pk&t"
+        },
+        {
+            "id": 27,
+            "categoriaId": 5,
+            "titulo": "#02 - Demo Reel",
+            "url": "https://www.youtube.com/watch?v=tE-iY0K-xrA"
+        },
+        {
+            "id": 28,
+            "categoriaId": 5,
+            "titulo": "#01 - Brincando de Entrevista",
+            "url": "https://www.youtube.com/watch?v=53-Km2etIvo"
+        },
+        {
+            "id": 29,
+            "categoriaId": 5,
+            "titulo": "#02 - Brincando de Entrevista",
+            "url": "https://www.youtube.com/watch?v=wBxe5fd-dn4"
         }
     ]
 }
