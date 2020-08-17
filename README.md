@@ -4,17 +4,8 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 <br></br>
 
-### <p align="center">Recriação do portfólio de atuação</p>
+##### <p align="center">Recriação do portfólio de atuação</p>
 <br>
-<br>
-<br>
-
-
-### Mobile
-<p align="center">
-<img src="https://ik.imagekit.io/fernandadegolin/Gravac_a_o-de-Tela-2020-08-17-a_s-17.26.39_BlXIte4wo.gif">
-</p>
-
 
 <br>
 <div  align="center">
