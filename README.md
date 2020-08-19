@@ -11,6 +11,11 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 <br>
 <br>
 <br>
+
+###### Tecnologia
+`React`
+
+<br><br>
 <div  align="center">
   <img src="https://ik.imagekit.io/fernandadegolin/Component_1__3__XRs7XshHa.png" />
 </div>
