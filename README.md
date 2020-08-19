@@ -9,11 +9,7 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 <img width="80" align="center" src=https://github.com/fernandadegolin/reactflix/blob/master/public/logo192.png/>
 </div>
 <br>
-
 <br>
-
-
-
 <br>
 <div  align="center">
   <img src="https://ik.imagekit.io/fernandadegolin/Component_1__3__XRs7XshHa.png" />
