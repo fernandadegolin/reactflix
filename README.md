@@ -12,10 +12,8 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 <br>
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/mEP8ryLHFKY32tL9G3/giphy.gif"/>
-</div>
 
+<br>
 <br><br>
 <div  align="center">
   <img src="https://ik.imagekit.io/fernandadegolin/Component_1__3__XRs7XshHa.png" />
@@ -23,6 +21,10 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 <br>
 <br>
 
+<br><br>
+<div align="center">
+  <img width="800" src="https://media.giphy.com/media/mEP8ryLHFKY32tL9G3/giphy.gif"/>
+</div>
 
 ###### Tecnologias
 `React`
