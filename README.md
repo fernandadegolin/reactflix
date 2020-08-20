@@ -23,7 +23,7 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 
 <br><br>
 <div align="center">
-  <img width="800" src="https://media.giphy.com/media/mEP8ryLHFKY32tL9G3/giphy.gif"/>
+  <img width="700" src="https://media.giphy.com/media/mEP8ryLHFKY32tL9G3/giphy.gif"/>
 </div>
 
 ###### Tecnologias
