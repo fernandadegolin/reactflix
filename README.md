@@ -11,8 +11,9 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 <br>
 <br>
 <br>
-<div>
-<img align="center" src="https://media.giphy.com/media/mEP8ryLHFKY32tL9G3/giphy.gif"/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/mEP8ryLHFKY32tL9G3/giphy.gif"/>
 </div>
 
 <br><br>
