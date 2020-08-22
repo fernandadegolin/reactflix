@@ -12,7 +12,6 @@ Um experimento com base na navegação do Netflix, recriando o painel da tela in
 <br>
 <br>
 
-
 <br>
 <br><br>
 <div  align="center">
