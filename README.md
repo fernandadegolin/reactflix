@@ -2,7 +2,7 @@
 
 Um experimento com base na navegação do Netflix, recriando o painel da tela inicial e dando lugar aos trabalhos da atriz.
 <br>
-
+ 
 ### Pegue a pipoca que será divertido.
 <br><br>
 
