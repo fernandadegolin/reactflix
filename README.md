@@ -1,5 +1,5 @@
 ## Projeto React
-
+ 
 Um experimento com base na navegação do Netflix, recriando o painel da tela inicial e dando lugar aos trabalhos da atriz.
 <br>
  
