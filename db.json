@@ -44,14 +44,23 @@
                 "text": "Aqueles erros gostosinhos da vida",
                 "url": "https://www.instagram.com/fernandadegolin/"
             }
+        },
+        {
+            "id": 6,
+            "titulo": "Teste",
+            "cor": "var(--cinco)",
+            "link_extra": {
+                "text": "Teste",
+                "url": "https://www.instagram.com/fernandadegolin/"
+            }
         }
     ],
     "videos": [
         {
             "id": 0,
             "categoriaId": 1,
-            "titulo": "Não",
-            "url": "https://www.youtube.com/watch?v=BIWpG0hmkL0&t"
+            "titulo": "Ruído",
+            "url": "https://www.youtube.com/watch?v=vED077_wd50"
         },
         {
             "id": 1,
@@ -82,6 +91,18 @@
             "categoriaId": 1,
             "titulo": "#00 - teaser I",
             "url": "https://www.youtube.com/watch?v=QDcfr_dywR0"
+        },
+        {
+            "id": 6,
+            "categoriaId": 1,
+            "titulo": "Não",
+            "url": "https://www.youtube.com/watch?v=BIWpG0hmkL0&t"
+        },
+        {
+            "id": 7,
+            "categoriaId": 1,
+            "titulo": "Teste",
+            "url": "https://www.youtube.com/watch?v=m-W4ad97Ua0&t"
         },
         {
             "id": 6,
