@@ -1,5 +1,19 @@
 .Logo {
-    max-width: 168px;
+    /* max-width: 168px; */
+  }
+
+  .Fe{
+    width: 4.8%;
+    position: fixed;
+    margin-left: -65px;
+    margin-top: -41px;
+  }
+
+  ul {
+    color: var(--primary);
+    list-style: none;
+    text-transform: uppercase;
+    /* display: flex; */
   }
   
   @media (max-width: 800px) {
@@ -17,7 +31,7 @@
     justify-content: space-between;
     align-items: center;
   
-    position: fixed;
+    /* position: fixed; */
     top: 0;
     left: 0;
     right: 0;
@@ -25,10 +39,19 @@
     padding-right: 5%;
   
     background: var(--black);
-    border-bottom: 2px solid var(--primary);
+    /* border-bottom: 2px solid var(--primary); */
   }
+
+  .Title {
+    font-weight: lighter;
+    color: var(--primary);
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 10px;
+  }
+
   body {
-    --bodyPaddingTop: 94px;
+    /* --bodyPaddingTop: 94px; */
     padding-top: var(--bodyPaddingTop);
   }
   @media (max-width: 800px) {

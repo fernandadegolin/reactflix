@@ -1,6 +1,6 @@
 import React from 'react';
 import { FooterBase } from './styles';
-import Logo from '../../assets/img/Logo.png';
+import Logo from '../../assets/img/fe.png';
 
 
 function Footer() {
@@ -13,7 +13,7 @@ function Footer() {
       built by 
         {' '}
         <a href="https://fernandadegolin.github.io/fernandadegolin/">
-        Fernanda Degolin - 2020 
+        Fernanda Degolin - 2021 
         </a>
       </p>
     </FooterBase>

@@ -5,7 +5,7 @@
             "titulo": "The Mysterious",
             "cor": "var(--um)",
             "link_extra": {
-                "text": "Fazemos os mistérios dos momentos ganharem movimento ™",
+                "text": "Projeto artístico despretensioso. Fazemos os mistérios dos momentos ganharem movimento ™",
                 "url": "https://www.instagram.com/themysterious.art"
             }
         },
@@ -44,15 +44,6 @@
                 "text": "Aqueles erros gostosinhos da vida",
                 "url": "https://www.instagram.com/fernandadegolin/"
             }
-        },
-        {
-            "id": 6,
-            "titulo": "Teste",
-            "cor": "var(--cinco)",
-            "link_extra": {
-                "text": "Teste",
-                "url": "https://www.instagram.com/fernandadegolin/"
-            }
         }
     ],
     "videos": [
@@ -65,44 +56,56 @@
         {
             "id": 1,
             "categoriaId": 1,
+            "titulo": "Não",
+            "url": "https://www.youtube.com/watch?v=BIWpG0hmkL0&t"
+        },
+        {
+            "id": 2,
+            "categoriaId": 1,
             "titulo": "Fernanda Degolin",
             "url": "https://youtu.be/4J7TakqAbOQ"
         },
         {
-            "id": 2,
+            "id": 3,
+            "categoriaId": 1,
+            "titulo": "#07 fala comigo, c h u v a",
+            "url": "https://www.youtube.com/watch?v=nBDQ2CMF_oc&t"
+        },
+        {
+            "id": 4,
             "categoriaId": 1,
             "titulo": "#03 - v a z i o ",
             "url": "https://www.youtube.com/watch?v=g69Qo572pOQ&t"
         },
         {
-            "id": 3,
+            "id": 5,
             "categoriaId": 1,
             "titulo": "#02 - o universo em nós",
             "url": "https://www.youtube.com/watch?v=AuJ4G2jxuGo"
         },
         {
-            "id": 4,
+            "id": 6,
+            "categoriaId": 1,
+            "titulo": "#10 - MOOD 02 | the mysterious™",
+            "url": "https://www.youtube.com/watch?v=Pm0quqFUy-k"
+        },
+        {
+            "id": 7,
             "categoriaId": 1,
             "titulo": "#01 - teaser II",
             "url": "https://www.youtube.com/watch?v=Si4AjHl1aK0"
         },
         {
-            "id": 5,
+            "id": 8,
             "categoriaId": 1,
             "titulo": "#00 - teaser I",
             "url": "https://www.youtube.com/watch?v=QDcfr_dywR0"
         },
         {
-            "id": 6,
-            "categoriaId": 1,
-            "titulo": "Não",
-            "url": "https://www.youtube.com/watch?v=BIWpG0hmkL0&t"
-        },
-        {
             "id": 7,
             "categoriaId": 1,
-            "titulo": "Teste",
-            "url": "https://www.youtube.com/watch?v=m-W4ad97Ua0&t"
+            "titulo": "#04 - nomes: fernanda",
+            "url": "https://www.youtube.com/watch?v=7AwM3jy3HDQ&t"
         },
         {
             "id": 6,
@@ -211,6 +214,12 @@
             "categoriaId": 5,
             "titulo": "Irmã SAFADA Dulce",
             "url": "https://youtu.be/Hwc-wQ3dljo"
+        },
+        {
+            "id": 24,
+            "categoriaId": 5,
+            "titulo": "Não",
+            "url": "https://www.youtube.com/watch?v=Tn8WyVmsj-s"
         },
         {
             "id": 24,
