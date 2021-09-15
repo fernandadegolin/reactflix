@@ -13,6 +13,14 @@ export const FooterBase = styled.footer`
   p {
     font-size: 12px;
   }
+
+  .Logo{
+    display:none;
+    @media (max-width: 375px) {
+    display: block;
+    margin: auto;
+      }
+  }
 `;
 
 export const Redes = styled.div`
@@ -20,7 +28,7 @@ img {
   filter: invert(1);
   width: 4vw;
   margin: 18px;
-  transition: opacity .3s;
+  transition: opacity 13s;
   &:hover,
   &:focus {
     /* opacity: .5; */

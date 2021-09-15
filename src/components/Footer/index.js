@@ -8,9 +8,9 @@ import Email from '../../assets/img/email.png';
 function Footer() {
   return (
     <FooterBase>
-      {/* <a href="https://fernandadegolin.github.io/fernandadegolin/">
+      <a href="https://fernandadegolin.github.io/fernandadegolin/">
         <img className="Logo" src={Logo} alt="Logo" />
-      </a> */}
+      </a>
 
       <Redes className="Redes">
         <a href=""><img className="Instagram" src={Instagram} alt="Logo Instagram" /></a>
