@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-
 export const FooterBase = styled.footer`
   background: var(--black);
   /* border-top: 2px solid var(--primary); */
@@ -14,13 +13,23 @@ export const FooterBase = styled.footer`
   p {
     font-size: 12px;
   }
-
-  img {
-    max-width: 6%;
-  }
-
-  @media (max-width: 800px) {
-    margin-bottom: 50px;
-  }
 `;
 
+export const Redes = styled.div`
+img {
+  filter: invert(1);
+  width: 4vw;
+  margin: 18px;
+  transition: opacity .3s;
+  &:hover,
+  &:focus {
+    /* opacity: .5; */
+    filter: none;
+  }
+
+
+  @media (max-width: 375px) {
+    width: 10vw;
+      }
+}
+`;
