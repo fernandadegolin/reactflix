@@ -26,7 +26,7 @@ export const FooterBase = styled.footer`
 export const Redes = styled.div`
 img {
   filter: invert(1);
-  width: 4vw;
+  width: 2.8vw;
   margin: 18px;
   transition: opacity 13s;
   &:hover,
@@ -37,7 +37,7 @@ img {
 
 
   @media (max-width: 375px) {
-    width: 10vw;
+    width: 7vw;
       }
 }
 `;
