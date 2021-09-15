@@ -102,157 +102,163 @@
             "url": "https://www.youtube.com/watch?v=QDcfr_dywR0"
         },
         {
-            "id": 7,
+            "id": 9,
             "categoriaId": 1,
             "titulo": "#04 - nomes: fernanda",
             "url": "https://www.youtube.com/watch?v=7AwM3jy3HDQ&t"
         },
         {
-            "id": 6,
+            "id": 10,
             "categoriaId": 2,
             "titulo": "Chronos",
             "url": "https://www.youtube.com/watch?v=m-W4ad97Ua0&t"
         },
         {
-            "id": 7,
+            "id": 11,
+            "categoriaId": 2,
+            "titulo": "Ás Escuras",
+            "url": "https://www.youtube.com/watch?v=H7e4osSOEeA"
+        },
+        {
+            "id": 12,
             "categoriaId": 2,
             "titulo": "Ablepsia",
             "url": "https://www.youtube.com/watch?v=H3K0wAnuuXk&t"
         },
         {
-            "id": 8,
+            "id": 13,
             "categoriaId": 2,
             "titulo": "O despertar que já se foi!",
             "url": "https://www.youtube.com/watch?v=Jk0KFCMxeVc"
         },
         {
-            "id": 9,
+            "id": 14,
             "categoriaId": 2,
             "titulo": "Escolhas",
             "url": "https://www.youtube.com/watch?v=6CN6zdiICmc&t"
         },
         {
-            "id": 10,
+            "id": 15,
             "categoriaId": 2,
             "titulo": "Síndrome de Estolcomo ",
             "url": "https://www.youtube.com/watch?v=TblTUG61-1I"
         },
         {
-            "id": 11,
+            "id": 16,
             "categoriaId": 2,
             "titulo": "Corujas",
             "url": "https://www.youtube.com/watch?v=aakjS69SySU"
         },
         {
-            "id": 12,
+            "id": 17,
             "categoriaId": 2,
             "titulo": "Extremos",
             "url": "https://www.youtube.com/watch?v=D3WU6XBPmrg"
         },
         {
-            "id": 13,
+            "id": 18,
             "categoriaId": 2,
             "titulo": "O Declive",
             "url": "https://www.youtube.com/watch?v=s7IBnpv69n8"
         },
         {
-            "id": 14,
+            "id": 19,
             "categoriaId": 3,
             "titulo": "#1 - O filme - VIDA DE ATOR",
             "url": "https://youtu.be/Py7wJzzbb9c"
         },
         {
-            "id": 15,
+            "id": 20,
             "categoriaId": 3,
             "titulo": "#2 - Ele não está afim de chorar",
             "url": "https://youtu.be/OsUWG33qzYU"
         },
         {
-            "id": 16,
+            "id": 21,
             "categoriaId": 3,
             "titulo": "#3 - Atuando no Relacionamento",
             "url": "https://youtu.be/KljXNZpfowY"
         },
         {
-            "id": 17,
+            "id": 22,
             "categoriaId": 3,
             "titulo": "#4 - Atuando no Escritório",
             "url": "https://youtu.be/jXNehl3Fxz4"
         },
         {
-            "id": 18,
+            "id": 23,
             "categoriaId": 3,
             "titulo": "#5 - E se não existisse perfil de ator/atriz?",
             "url": "https://youtu.be/deYl5V0D7Tg"
         },
         {
-            "id": 19,
+            "id": 24,
             "categoriaId": 4,
             "titulo": "#1 - Entre amigos",
             "url": "https://youtu.be/V7iTj3lc_rY"
         },
         {
-            "id": 20,
+            "id": 25,
             "categoriaId": 4,
             "titulo": "#2 - Irmã Dulce",
             "url": "https://youtu.be/xZKTZuHed6Y"
         },
         {
-            "id": 21,
+            "id": 26,
             "categoriaId": 4,
             "titulo": "#3 - Prestativa",
             "url": "https://youtu.be/NwSjwTFfOAY"
         },
         {
-            "id": 22,
+            "id": 27,
             "categoriaId": 4,
             "titulo": "Cena Final - E Assim é...",
             "url": "https://www.youtube.com/watch?v=aFGaG0-_ud0&t"
         },
         {
-            "id": 23,
+            "id": 28,
             "categoriaId": 5,
             "titulo": "Irmã SAFADA Dulce",
             "url": "https://youtu.be/Hwc-wQ3dljo"
         },
         {
-            "id": 24,
+            "id": 29,
             "categoriaId": 5,
             "titulo": "Não",
             "url": "https://www.youtube.com/watch?v=Tn8WyVmsj-s"
         },
         {
-            "id": 24,
+            "id": 30,
             "categoriaId": 5,
             "titulo": "#01 - Demo Reel",
             "url": "https://www.youtube.com/watch?v=U6C4zL6TLAM"
         },
         {
-            "id": 25,
+            "id": 31,
             "categoriaId": 5,
             "titulo": "BLUR - Em busca de sentidos",
             "url": "https://www.youtube.com/watch?v=43C_Wk9Vv_0"
         },
         {
-            "id": 26,
+            "id": 32,
             "categoriaId": 5,
             "titulo": "Elas Preferem os Fofos",
             "url": "https://www.youtube.com/watch?v=-KHbArbg6pk&t"
         },
         {
-            "id": 27,
+            "id": 33,
             "categoriaId": 5,
             "titulo": "#02 - Demo Reel",
             "url": "https://www.youtube.com/watch?v=tE-iY0K-xrA"
         },
         {
-            "id": 28,
+            "id": 34,
             "categoriaId": 5,
             "titulo": "#01 - Brincando de Entrevista",
             "url": "https://www.youtube.com/watch?v=53-Km2etIvo"
         },
         {
-            "id": 29,
+            "id": 35,
             "categoriaId": 5,
             "titulo": "#02 - Brincando de Entrevista",
             "url": "https://www.youtube.com/watch?v=wBxe5fd-dn4"
