@@ -248,17 +248,11 @@
         {
             "id": 33,
             "categoriaId": 5,
-            "titulo": "#02 - Demo Reel",
-            "url": "https://www.youtube.com/watch?v=tE-iY0K-xrA"
-        },
-        {
-            "id": 34,
-            "categoriaId": 5,
             "titulo": "#01 - Brincando de Entrevista",
             "url": "https://www.youtube.com/watch?v=53-Km2etIvo"
         },
         {
-            "id": 35,
+            "id": 34,
             "categoriaId": 5,
             "titulo": "#02 - Brincando de Entrevista",
             "url": "https://www.youtube.com/watch?v=wBxe5fd-dn4"
