@@ -26,8 +26,8 @@ export const FooterBase = styled.footer`
 export const Redes = styled.div`
 img {
   filter: invert(1);
-  width: 2.8vw;
-  margin: 18px;
+  width: 1.8vw;
+  margin: 12px;
   transition: opacity 13s;
   &:hover,
   &:focus {
