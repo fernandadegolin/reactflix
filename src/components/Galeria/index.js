@@ -29,7 +29,7 @@ function Fotos() {
           <ImageSmall
             srl_gallery_image="true"
             src={Foto1}
-            alt="logo da Fernanda Degolin"
+            alt=""
           />
 
           <ImageSmall
@@ -51,7 +51,7 @@ function Fotos() {
           <ImageHalf
             srl_gallery_image="true"
             src={Foto4}
-            alt="logo da Fernanda Degolin"
+            alt=""
           />
 
           <ImageHalf
@@ -67,7 +67,7 @@ function Fotos() {
           <ImageSmall
             srl_gallery_image="true"
             src={Foto6}
-            alt="logo da Fernanda Degolin"
+            alt=""
           />
 
           <ImageSmall
@@ -81,7 +81,6 @@ function Fotos() {
             src={Foto8}
             alt=""
           />
-
         </Row>
 
         <Row>
@@ -89,13 +88,13 @@ function Fotos() {
           <ImageHalf
             srl_gallery_image="true"
             src={Foto9}
-            alt="logo da Fernanda Degolin"
+            alt=""
           />
 
           <ImageHalf
             srl_gallery_image="true"
             src={Foto13}
-            alt="logo da Fernanda Degolin"
+            alt=""
           />
 
         </Row>
@@ -105,7 +104,7 @@ function Fotos() {
           <ImageSmall
             srl_gallery_image="true"
             src={Foto10}
-            alt="logo da Fernanda Degolin"
+            alt=""
           />
 
           <ImageSmall
@@ -127,7 +126,7 @@ function Fotos() {
           <ImageSmall
             srl_gallery_image="true"
             src={Foto14}
-            alt="logo da Fernanda Degolin"
+            alt=""
           />
 
           <ImageSmall
