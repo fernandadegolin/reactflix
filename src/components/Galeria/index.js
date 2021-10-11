@@ -1,44 +1,150 @@
 import React from 'react';
-import { BannerMe } from './styles.js';
-// import BG from '../../assets/galeria/DSC00965-69.jpg';
+import { SRLWrapper } from 'simple-react-lightbox';
+import Foto1 from '../../assets/galeria/pic1.webp';
+import Foto2 from '../../assets/galeria/pic3.webp';
+import Foto3 from '../../assets/galeria/pic22.webp';
+import Foto4 from '../../assets/galeria/pic5.webp';
+import Foto5 from '../../assets/galeria/pic23.webp';
+import Foto6 from '../../assets/galeria/pic7.webp';
+import Foto7 from '../../assets/galeria/pic11.webp';
+import Foto8 from '../../assets/galeria/pic13.webp';
+import Foto9 from '../../assets/galeria/pic12.webp';
+import Foto10 from '../../assets/galeria/pic10.webp';
+import Foto11 from '../../assets/galeria/pic15.webp';
+import Foto12 from '../../assets/galeria/pic8.webp';
+import Foto13 from '../../assets/galeria/pic9.webp';
+import Foto14 from '../../assets/galeria/pic16.webp';
+import Foto15 from '../../assets/galeria/pic20.webp';
+import Foto16 from '../../assets/galeria/pic25.webp';
+import {
+  Content, ImageHalf, ImageSmall, Row,
+} from './styles';
 
 function Fotos() {
   return (
+    <SRLWrapper>
+      <Content className="content">
+        <Row>
 
-    <>
-      <BannerMe />
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto1}
+            alt="logo da Fernanda Degolin"
+          />
 
-      <h1>Fernanda Degolin</h1>
-      <p>
-        cidade natal - Mogi Guaçu, interior de São Paulo). Atriz e diretora.
-      </p>
-      <h3>DRT -  34582SP </h3>
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto2}
+            alt=""
+          />
 
-<div>
-      <p>
-        Fernanda iniciou os estudos em atuação em meados de 2001 ainda na cidade natal. Estudou com os professores de atuação e direção da cidade, montou nos anos seguintes a sua cia de teatro experimental.
-      </p>
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto3}
+            alt=""
+          />
 
-      <p>
-        Em 2010 finalizou sua faculdade de Administração e mudou-se para São Paulo para se especializar na área de atuação e direção. Teve contato com renomados nomes do teatro e cinema. Estudou direção e atuação de atores no Instituto Stanislavsky, onde realizou mais de 12 curtas metragens com produções assinadas pela LA Film Institute.
-      </p>
+        </Row>
 
-      <p>Teve mentoria e estudos com direção de Alexandre Klemperer, diretor de novelas da Globo.</p>
+        <Row>
 
-      <p>
-        Fez parte do corpo docente da escola Namie Wihby School, ministrando aulas de interpretação para os alunos.
-      </p>
-      <p>
-        Atuou em mais de 30 espetáculos teatrais ao longo da carreira, incluindo uma breve passagem pelo teatro musical.
-      </p>
-      <p>Hoje trabalha em sua produtora (The Mysterious) como diretora criativa, produzindo vídeos artísticos e criativos, vídeo clipes e curtas metragens.</p>
+          <ImageHalf
+            srl_gallery_image="true"
+            src={Foto4}
+            alt="logo da Fernanda Degolin"
+          />
 
-      <p>Está em cartaz desde 2020 com o espetáculo Fala Comigo, uma obra voltada para as plataformas online e se reinventando na pandemia.
-</p>
+          <ImageHalf
+            srl_gallery_image="true"
+            src={Foto5}
+            alt=""
+          />
 
-</div>
-      <p>2021</p>
-    </>
+        </Row>
+
+        <Row>
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto6}
+            alt="logo da Fernanda Degolin"
+          />
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto7}
+            alt=""
+          />
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto8}
+            alt=""
+          />
+
+        </Row>
+
+        <Row>
+
+          <ImageHalf
+            srl_gallery_image="true"
+            src={Foto9}
+            alt="logo da Fernanda Degolin"
+          />
+
+          <ImageHalf
+            srl_gallery_image="true"
+            src={Foto13}
+            alt="logo da Fernanda Degolin"
+          />
+
+        </Row>
+
+        <Row>
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto10}
+            alt="logo da Fernanda Degolin"
+          />
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto11}
+            alt=""
+          />
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto12}
+            alt=""
+          />
+
+        </Row>
+
+        <Row>
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto14}
+            alt="logo da Fernanda Degolin"
+          />
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto15}
+            alt=""
+          />
+
+          <ImageSmall
+            srl_gallery_image="true"
+            src={Foto16}
+            alt=""
+          />
+
+        </Row>
+      </Content>
+    </SRLWrapper>
 
   );
 }

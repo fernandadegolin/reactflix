@@ -1,22 +1,41 @@
 import styled from 'styled-components';
-import bg from '../../assets/galeria/DSC00965-69.jpg'
 
-export const Fotos = styled.h1`
-  /* color: var(--white);
-  text-align: center;
-   */
+export const Content = styled.div`
+
+
 `;
-
-export const BannerMe = styled.section`
-  height: 100vh;
-  position: relative;
-  color: #fff;
-  background: url(${bg});
-  background-size: cover;
-  opacity: 0.15;
+export const Row = styled.div`
+  display: flex;
+  
+  /* padding: 17px; */
 
   @media (max-width: 800px) {
-    height: auto;
-    min-height: 50vh;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+`;
+
+export const ImageSmall = styled.img`
+  max-width: 30vw;
+  object-fit: cover;
+  height: auto;
+  cursor: pointer;
+  /* margin: 0 18px;   */
+
+  @media (max-width: 800px) {
+    max-width: 100%;
+  }
+`;
+
+export const ImageHalf = styled.img`
+  max-width: 45vw;
+  object-fit: cover;
+  height: auto;
+  cursor: pointer;
+
+  @media (max-width: 800px) {
+    max-width: 100%;
   }
 `;

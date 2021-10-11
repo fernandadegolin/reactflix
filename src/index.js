@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 import Galeria from './pages/Galeria';
+import Informacao from './pages/Info';
 
 function Pagina404() {
   return (
@@ -21,6 +22,7 @@ ReactDOM.render(
     <Switch>
       <Route path="/" component={Home} exact />
       <Route path="/galeria" component={Galeria}/>
+      <Route path="/info" component={Informacao}/>
       <Route path="/cadastro/video" component={CadastroVideo} />
       <Route path="/cadastro/categoria" component={CadastroCategoria} />
       <Route component={Pagina404} />
