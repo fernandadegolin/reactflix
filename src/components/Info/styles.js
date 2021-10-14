@@ -31,15 +31,17 @@ export const Section = styled.div`
 export const BannerMe = styled.section`
     height: 43vh;
     max-width: 100vw;
+    background-position-y: -97px!important;
     /* position: absolute; */
     color: #fff;
-    background: url(/static/media/pic22.88c95c2d.webp) center;
+    background: url(/static/media/pic3.419253ea.webp) center;
     background-size: cover;
     opacity: 0.45;
 
   @media (max-width: 1039px) {
     max-width: 100vw;
       height: 50vh;
+      background-position-y: inherit!important;
   }
 `;
 
