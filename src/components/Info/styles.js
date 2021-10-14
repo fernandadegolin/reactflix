@@ -9,37 +9,46 @@ export const Section = styled.div`
   }
 
   img{
-    filter: invert();
+    filter: invert(1);
     width: auto;
     height: 4vh;
     display: flex;
     margin-left: auto;
+
+    &:hover,
+    &:focus {
+    /* opacity: .5; */
+    filter: contrast(0.5);
+
+    @media (max-width: 1039px) {
+      
+  }
+  }
   }
 
   @media (max-width: 1039px) {
     padding: inherit;
+    
   }
 `;
 
 export const BannerMe = styled.section`
     height: 43vh;
-    width: 26vw;
-    position: absolute;
+    max-width: 100vw;
+    /* position: absolute; */
     color: #fff;
     background: url(/static/media/pic1.438444b8.webp) center;
     background-size: cover;
     opacity: 0.45;
 
   @media (max-width: 1039px) {
-    position: inherit;
-    width: auto;
-    height: auto;
-    min-height: 50vh;
+    max-width: 100vw;
+      height: 50vh;
   }
 `;
 
 export const Title = styled.div`
-  margin-left: 24rem;
+ 
 
   h1 {
     margin-bottom: 0;
@@ -51,7 +60,7 @@ export const Title = styled.div`
 
   p{
     margin: 0;
-  }
+  } 
 
   @media (max-width: 1039px) {
     margin: auto;
@@ -60,10 +69,7 @@ export const Title = styled.div`
 `;
 
 export const Infos = styled.p`
-  margin-left: 24rem;
   text-align: justify;
 
-  @media (max-width: 1039px) {
-    margin: auto;
-  }
+ 
 `;
