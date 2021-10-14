@@ -6,6 +6,7 @@ export const Section = styled.div`
 
   p{
     text-align: justify;
+    line-height: 23px;
   }
 
   img{
@@ -15,20 +16,15 @@ export const Section = styled.div`
     display: flex;
     margin-left: auto;
 
-    &:hover,
-    &:focus {
-    /* opacity: .5; */
-    filter: contrast(0.5);
-
-    @media (max-width: 1039px) {
-      
-  }
-  }
+      &:hover,
+      &:focus {
+      /* opacity: .5; */
+      filter: contrast(0.5);
+    }
   }
 
   @media (max-width: 1039px) {
     padding: inherit;
-    
   }
 `;
 
@@ -37,7 +33,7 @@ export const BannerMe = styled.section`
     max-width: 100vw;
     /* position: absolute; */
     color: #fff;
-    background: url(/static/media/pic1.438444b8.webp) center;
+    background: url(/static/media/pic22.88c95c2d.webp) center;
     background-size: cover;
     opacity: 0.45;
 
