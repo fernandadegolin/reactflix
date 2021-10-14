@@ -14,13 +14,13 @@ function Info() {
         <h1>
           Fernanda Degolin
 
+        </h1>
           <span>
             {' '}
 
             {' '}
             DRT - 34582SP
           </span>
-        </h1>
         <p>
           Atriz e diretora
         </p>

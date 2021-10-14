@@ -1,9 +1,8 @@
 import styled from 'styled-components';
 
 export const Content = styled.div`
-
-
 `;
+
 export const Row = styled.div`
   display: flex;
   
@@ -38,4 +37,21 @@ export const ImageHalf = styled.img`
   @media (max-width: 800px) {
     max-width: 100%;
   }
+`;
+
+export const Return = styled.img`
+
+    filter: invert(1);
+    width: auto;
+    height: 4vh;
+    display: flex;
+    margin-left: auto;
+    margin-top: 40px;
+
+      &:hover,
+      &:focus {
+      /* opacity: .5; */
+      filter: contrast(0.5);
+    }
+ 
 `;

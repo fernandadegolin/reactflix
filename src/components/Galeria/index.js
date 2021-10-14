@@ -17,12 +17,14 @@ import Foto14 from '../../assets/galeria/pic16.webp';
 import Foto15 from '../../assets/galeria/pic20.webp';
 import Foto16 from '../../assets/galeria/pic25.webp';
 import {
-  Content, ImageHalf, ImageSmall, Row,
+  Content, ImageHalf, ImageSmall, Row, Return
 } from './styles';
+import { Link } from 'react-router-dom';
+import Voltar from '../../assets/img/seta.png';
 
 function Fotos() {
   return (
-    <SRLWrapper>
+   
       <Content className="content">
         <Row>
 
@@ -142,9 +144,11 @@ function Fotos() {
           />
 
         </Row>
+      <Link to="/">
+        <Return src={Voltar} alt="voltar" />
+      </Link>
       </Content>
-    </SRLWrapper>
-
+   
   );
 }
 
