@@ -8,32 +8,27 @@ import './Menu.css';
 
 function Menu() {
   return (
-    <nav className="Menu">
-      <Link to="/">
-        <img className="Fe" src={Fe} alt="logo da Fernanda Degolin" />
-        {/* <img className="Logo" src={Logo} alt="logo da Fernanda Degolin" /> */}
-      </Link>
-        <p className="Title">Fernanda Degolin</p>
-{/* 
-      <div className="Navegação">
-        <ul>
-          <a href="https://www.instagram.com/" target="_blank">
-            {' '}
-            <li>Quem sou</li>
-          </a>
-          <a href="https://www.instagram.com/" target="_blank">
-            <li>Fotos</li>
-            {' '}
-          </a>
-        </ul>
-      </div> */}
+    <>
+      <nav className="Menu">
+        <Link to="/">
+          <img className="Fe" src={Fe} alt="logo da Fernanda Degolin" />
+          {/* <img className="Logo" src={Logo} alt="logo da Fernanda Degolin" /> */}
+        </Link>
+        <Link to="/info">
+          <p className="Title">Fernanda Degolin</p>
+        </Link>
+      </nav>
 
-      {/* Desabilitei o botão novo vídeo */}
-
-      {/* {<Button as={Link} className="ButtonLink" to="/cadastro/video">
-        Novo Vídeo
-      </Button>} */}
-    </nav>
+      <div className="SubMenu">
+        <Link to="/info">
+          <p className="SubTitle">Quem sou</p>
+        </Link>
+        <p className="SubTitle">{' '}</p>
+        <Link to="/galeria">
+          <p className="SubTitle">Galeria</p>
+        </Link>
+      </div>
+    </>
   );
 }
 

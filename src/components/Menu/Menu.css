@@ -50,6 +50,38 @@
     font-size: 20px;
     letter-spacing: 10px;
   }
+  
+  .Title:hover {
+    filter: contrast(0.5);
+  }
+  
+  .SubMenu {
+    display: flex;
+    justify-content: center;
+  }
+
+  @media (max-width: 800px) {
+    .SubMenu {
+      margin-top:17px;
+    }
+
+    .SubTitle{
+      font-size: 13px;
+    }
+  }
+
+  .SubTitle{
+    font-weight: lighter;
+    color: var(--primary);
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 10px;
+    margin-left: 10px;
+  }
+
+  .SubTitle:hover{
+    filter: contrast(0.5);
+  }
 
   body {
     /* --bodyPaddingTop: 94px; */
