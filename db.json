@@ -1,261 +1,267 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "titulo": "The Mysterious",
-            "cor": "var(--um)",
-            "link_extra": {
-                "text": "Projeto artístico despretensioso. Fazemos os mistérios dos momentos ganharem movimento ™",
-                "url": "https://www.instagram.com/themysterious.art"
-            }
-        },
-        {
-            "id": 2,
-            "titulo": "Curta Metragens",
-            "cor": "var(--dois)",
-            "link_extra": {
-                "text": "Historias longas em formatos breves",
-                "url": "https://www.instagram.com/fernandadegolin/"
-            }
-        },
-        {
-            "id": 3,
-            "titulo": "Projeto Ator",
-            "cor": "var(--tres)",
-            "link_extra": {
-                "text": "Vida de Ator contada de uma forma bem-humorada",
-                "url": "https://www.instagram.com/fernandadegolin/"
-            }
-        },
-        {
-            "id": 4,
-            "titulo": "Estúdio",
-            "cor": "var(--quatro)",
-            "link_extra": {
-                "text": "Estudos com Direção de Alexandre Klemperer",
-                "url": "https://www.instagram.com/fernandadegolin/"
-            }
-        },
-        {
-            "id": 5,
-            "titulo": "Making of",
-            "cor": "var(--cinco)",
-            "link_extra": {
-                "text": "Aqueles erros gostosinhos da vida",
-                "url": "https://www.instagram.com/fernandadegolin/"
-            }
-        }
-    ],
-    "videos": [
-        {
-            "id": 0,
-            "categoriaId": 1,
-            "titulo": "Ruído",
-            "url": "https://www.youtube.com/watch?v=vED077_wd50"
-        },
-        {
-            "id": 1,
-            "categoriaId": 1,
-            "titulo": "Não",
-            "url": "https://www.youtube.com/watch?v=BIWpG0hmkL0&t"
-        },
-        {
-            "id": 2,
-            "categoriaId": 1,
-            "titulo": "Fernanda Degolin",
-            "url": "https://youtu.be/4J7TakqAbOQ"
-        },
-        {
-            "id": 3,
-            "categoriaId": 1,
-            "titulo": "#07 fala comigo, c h u v a",
-            "url": "https://www.youtube.com/watch?v=nBDQ2CMF_oc&t"
-        },
-        {
-            "id": 4,
-            "categoriaId": 1,
-            "titulo": "#03 - v a z i o ",
-            "url": "https://www.youtube.com/watch?v=g69Qo572pOQ&t"
-        },
-        {
-            "id": 5,
-            "categoriaId": 1,
-            "titulo": "#02 - o universo em nós",
-            "url": "https://www.youtube.com/watch?v=AuJ4G2jxuGo"
-        },
-        {
-            "id": 6,
-            "categoriaId": 1,
-            "titulo": "#10 - MOOD 02 | the mysterious™",
-            "url": "https://www.youtube.com/watch?v=Pm0quqFUy-k"
-        },
-        {
-            "id": 7,
-            "categoriaId": 1,
-            "titulo": "#01 - teaser II",
-            "url": "https://www.youtube.com/watch?v=Si4AjHl1aK0"
-        },
-        {
-            "id": 8,
-            "categoriaId": 1,
-            "titulo": "#00 - teaser I",
-            "url": "https://www.youtube.com/watch?v=QDcfr_dywR0"
-        },
-        {
-            "id": 9,
-            "categoriaId": 1,
-            "titulo": "#04 - nomes: fernanda",
-            "url": "https://www.youtube.com/watch?v=7AwM3jy3HDQ&t"
-        },
-        {
-            "id": 10,
-            "categoriaId": 2,
-            "titulo": "Chronos",
-            "url": "https://www.youtube.com/watch?v=m-W4ad97Ua0&t"
-        },
-        {
-            "id": 11,
-            "categoriaId": 2,
-            "titulo": "Ás Escuras",
-            "url": "https://www.youtube.com/watch?v=H7e4osSOEeA"
-        },
-        {
-            "id": 12,
-            "categoriaId": 2,
-            "titulo": "Ablepsia",
-            "url": "https://www.youtube.com/watch?v=H3K0wAnuuXk&t"
-        },
-        {
-            "id": 13,
-            "categoriaId": 2,
-            "titulo": "O despertar que já se foi!",
-            "url": "https://www.youtube.com/watch?v=Jk0KFCMxeVc"
-        },
-        {
-            "id": 14,
-            "categoriaId": 2,
-            "titulo": "Escolhas",
-            "url": "https://www.youtube.com/watch?v=6CN6zdiICmc&t"
-        },
-        {
-            "id": 15,
-            "categoriaId": 2,
-            "titulo": "Síndrome de Estolcomo ",
-            "url": "https://www.youtube.com/watch?v=TblTUG61-1I"
-        },
-        {
-            "id": 16,
-            "categoriaId": 2,
-            "titulo": "Corujas",
-            "url": "https://www.youtube.com/watch?v=aakjS69SySU"
-        },
-        {
-            "id": 17,
-            "categoriaId": 2,
-            "titulo": "Extremos",
-            "url": "https://www.youtube.com/watch?v=D3WU6XBPmrg"
-        },
-        {
-            "id": 18,
-            "categoriaId": 2,
-            "titulo": "O Declive",
-            "url": "https://www.youtube.com/watch?v=s7IBnpv69n8"
-        },
-        {
-            "id": 19,
-            "categoriaId": 3,
-            "titulo": "#1 - O filme - VIDA DE ATOR",
-            "url": "https://youtu.be/Py7wJzzbb9c"
-        },
-        {
-            "id": 20,
-            "categoriaId": 3,
-            "titulo": "#2 - Ele não está afim de chorar",
-            "url": "https://youtu.be/OsUWG33qzYU"
-        },
-        {
-            "id": 21,
-            "categoriaId": 3,
-            "titulo": "#3 - Atuando no Relacionamento",
-            "url": "https://youtu.be/KljXNZpfowY"
-        },
-        {
-            "id": 22,
-            "categoriaId": 3,
-            "titulo": "#4 - Atuando no Escritório",
-            "url": "https://youtu.be/jXNehl3Fxz4"
-        },
-        {
-            "id": 23,
-            "categoriaId": 3,
-            "titulo": "#5 - E se não existisse perfil de ator/atriz?",
-            "url": "https://youtu.be/deYl5V0D7Tg"
-        },
-        {
-            "id": 24,
-            "categoriaId": 4,
-            "titulo": "#1 - Entre amigos",
-            "url": "https://youtu.be/V7iTj3lc_rY"
-        },
-        {
-            "id": 25,
-            "categoriaId": 4,
-            "titulo": "#2 - Irmã Dulce",
-            "url": "https://youtu.be/xZKTZuHed6Y"
-        },
-        {
-            "id": 26,
-            "categoriaId": 4,
-            "titulo": "#3 - Prestativa",
-            "url": "https://youtu.be/NwSjwTFfOAY"
-        },
-        {
-            "id": 27,
-            "categoriaId": 4,
-            "titulo": "Cena Final - E Assim é...",
-            "url": "https://www.youtube.com/watch?v=aFGaG0-_ud0&t"
-        },
-        {
-            "id": 28,
-            "categoriaId": 5,
-            "titulo": "Irmã SAFADA Dulce",
-            "url": "https://youtu.be/Hwc-wQ3dljo"
-        },
-        {
-            "id": 29,
-            "categoriaId": 5,
-            "titulo": "Não",
-            "url": "https://www.youtube.com/watch?v=Tn8WyVmsj-s"
-        },
-        {
-            "id": 30,
-            "categoriaId": 5,
-            "titulo": "#01 - Demo Reel",
-            "url": "https://www.youtube.com/watch?v=U6C4zL6TLAM"
-        },
-        {
-            "id": 31,
-            "categoriaId": 5,
-            "titulo": "BLUR - Em busca de sentidos",
-            "url": "https://www.youtube.com/watch?v=43C_Wk9Vv_0"
-        },
-        {
-            "id": 32,
-            "categoriaId": 5,
-            "titulo": "Elas Preferem os Fofos",
-            "url": "https://www.youtube.com/watch?v=-KHbArbg6pk&t"
-        },
-        {
-            "id": 33,
-            "categoriaId": 5,
-            "titulo": "#01 - Brincando de Entrevista",
-            "url": "https://www.youtube.com/watch?v=53-Km2etIvo"
-        },
-        {
-            "id": 34,
-            "categoriaId": 5,
-            "titulo": "#02 - Brincando de Entrevista",
-            "url": "https://www.youtube.com/watch?v=wBxe5fd-dn4"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "The Mysterious",
+      "cor": "var(--um)",
+      "link_extra": {
+        "text": "Projeto artístico despretensioso. Fazemos os mistérios dos momentos ganharem movimento ™",
+        "url": "https://www.instagram.com/themysterious.art"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Curta Metragens",
+      "cor": "var(--dois)",
+      "link_extra": {
+        "text": "Historias longas em formatos breves",
+        "url": "https://www.instagram.com/fernandadegolin/"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Projeto Ator",
+      "cor": "var(--tres)",
+      "link_extra": {
+        "text": "Vida de Ator contada de uma forma bem-humorada",
+        "url": "https://www.instagram.com/fernandadegolin/"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Estúdio",
+      "cor": "var(--quatro)",
+      "link_extra": {
+        "text": "Estudos com Direção de Alexandre Klemperer",
+        "url": "https://www.instagram.com/fernandadegolin/"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Making of",
+      "cor": "var(--cinco)",
+      "link_extra": {
+        "text": "Aqueles erros gostosinhos da vida",
+        "url": "https://www.instagram.com/fernandadegolin/"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 0,
+      "categoriaId": 1,
+      "titulo": "Construindo a personagem",
+      "url": "https://www.youtube.com/watch?v=Pok8N8QfAwo"
+    },
+    {
+      "id": 0.1,
+      "categoriaId": 1,
+      "titulo": "Ruído",
+      "url": "https://www.youtube.com/watch?v=vED077_wd50"
+    },
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Não",
+      "url": "https://www.youtube.com/watch?v=BIWpG0hmkL0&t"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Fernanda Degolin",
+      "url": "https://youtu.be/4J7TakqAbOQ"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "#07 fala comigo, c h u v a",
+      "url": "https://www.youtube.com/watch?v=nBDQ2CMF_oc&t"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "#03 - v a z i o ",
+      "url": "https://www.youtube.com/watch?v=g69Qo572pOQ&t"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "#02 - o universo em nós",
+      "url": "https://www.youtube.com/watch?v=AuJ4G2jxuGo"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "#10 - MOOD 02 | the mysterious™",
+      "url": "https://www.youtube.com/watch?v=Pm0quqFUy-k"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "#01 - teaser II",
+      "url": "https://www.youtube.com/watch?v=Si4AjHl1aK0"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "#00 - teaser I",
+      "url": "https://www.youtube.com/watch?v=QDcfr_dywR0"
+    },
+    {
+      "id": 9,
+      "categoriaId": 1,
+      "titulo": "#04 - nomes: fernanda",
+      "url": "https://www.youtube.com/watch?v=7AwM3jy3HDQ&t"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Chronos",
+      "url": "https://www.youtube.com/watch?v=m-W4ad97Ua0&t"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Ás Escuras",
+      "url": "https://www.youtube.com/watch?v=H7e4osSOEeA"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Ablepsia",
+      "url": "https://www.youtube.com/watch?v=H3K0wAnuuXk&t"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "O despertar que já se foi!",
+      "url": "https://www.youtube.com/watch?v=Jk0KFCMxeVc"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "Escolhas",
+      "url": "https://www.youtube.com/watch?v=6CN6zdiICmc&t"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "Síndrome de Estolcomo ",
+      "url": "https://www.youtube.com/watch?v=TblTUG61-1I"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Corujas",
+      "url": "https://www.youtube.com/watch?v=aakjS69SySU"
+    },
+    {
+      "id": 17,
+      "categoriaId": 2,
+      "titulo": "Extremos",
+      "url": "https://www.youtube.com/watch?v=D3WU6XBPmrg"
+    },
+    {
+      "id": 18,
+      "categoriaId": 2,
+      "titulo": "O Declive",
+      "url": "https://www.youtube.com/watch?v=s7IBnpv69n8"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "#1 - O filme - VIDA DE ATOR",
+      "url": "https://youtu.be/Py7wJzzbb9c"
+    },
+    {
+      "id": 20,
+      "categoriaId": 3,
+      "titulo": "#2 - Ele não está afim de chorar",
+      "url": "https://youtu.be/OsUWG33qzYU"
+    },
+    {
+      "id": 21,
+      "categoriaId": 3,
+      "titulo": "#3 - Atuando no Relacionamento",
+      "url": "https://youtu.be/KljXNZpfowY"
+    },
+    {
+      "id": 22,
+      "categoriaId": 3,
+      "titulo": "#4 - Atuando no Escritório",
+      "url": "https://youtu.be/jXNehl3Fxz4"
+    },
+    {
+      "id": 23,
+      "categoriaId": 3,
+      "titulo": "#5 - E se não existisse perfil de ator/atriz?",
+      "url": "https://youtu.be/deYl5V0D7Tg"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "#1 - Entre amigos",
+      "url": "https://youtu.be/V7iTj3lc_rY"
+    },
+    {
+      "id": 25,
+      "categoriaId": 4,
+      "titulo": "#2 - Irmã Dulce",
+      "url": "https://youtu.be/xZKTZuHed6Y"
+    },
+    {
+      "id": 26,
+      "categoriaId": 4,
+      "titulo": "#3 - Prestativa",
+      "url": "https://youtu.be/NwSjwTFfOAY"
+    },
+    {
+      "id": 27,
+      "categoriaId": 4,
+      "titulo": "Cena Final - E Assim é...",
+      "url": "https://www.youtube.com/watch?v=aFGaG0-_ud0&t"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Irmã SAFADA Dulce",
+      "url": "https://youtu.be/Hwc-wQ3dljo"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "Não",
+      "url": "https://www.youtube.com/watch?v=Tn8WyVmsj-s"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "#01 - Demo Reel",
+      "url": "https://www.youtube.com/watch?v=U6C4zL6TLAM"
+    },
+    {
+      "id": 31,
+      "categoriaId": 5,
+      "titulo": "BLUR - Em busca de sentidos",
+      "url": "https://www.youtube.com/watch?v=43C_Wk9Vv_0"
+    },
+    {
+      "id": 32,
+      "categoriaId": 5,
+      "titulo": "Elas Preferem os Fofos",
+      "url": "https://www.youtube.com/watch?v=-KHbArbg6pk&t"
+    },
+    {
+      "id": 33,
+      "categoriaId": 5,
+      "titulo": "#01 - Brincando de Entrevista",
+      "url": "https://www.youtube.com/watch?v=53-Km2etIvo"
+    },
+    {
+      "id": 34,
+      "categoriaId": 5,
+      "titulo": "#02 - Brincando de Entrevista",
+      "url": "https://www.youtube.com/watch?v=wBxe5fd-dn4"
+    }
+  ]
 }

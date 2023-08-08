@@ -31,7 +31,7 @@ export default function BannerMain({ videoTitle, videoDescription, url }) {
         <ContentAreaContainer.Item>
           <VideoIframeResponsive youtubeID={youTubeID} />
           <WatchButton as="a" href={url}>
-            Assistir
+            Assista
           </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>
