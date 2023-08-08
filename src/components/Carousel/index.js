@@ -6,10 +6,7 @@ import Slider, { SliderItem } from "./components/Slider";
 function Carousel({ ignoreFirstVideo, category }) {
   const { titulo, cor, link_extra, videos } = category;
 
-  console.log({ videos });
-  console.log({ category });
-
-  console.log({ cor });
+  console.log(category.videos);
 
   return (
     <VideoCardGroupContainer>
