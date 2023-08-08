@@ -4,23 +4,21 @@ import VideoCard from "./components/VideoCard";
 import Slider, { SliderItem } from "./components/Slider";
 
 function Carousel({ ignoreFirstVideo, category }) {
-  const categoryTitle = category.titulo;
-  const categoryColor = category.cor;
-  const categoryExtraLink = category.link_extra;
-  const videos = category.videos;
+  const { titulo, cor, link_extra, videos } = category;
 
   console.log({ videos });
-  
+  console.log({ category });
+
+  console.log({ cor });
+
   return (
     <VideoCardGroupContainer>
-      {categoryTitle && (
+      {titulo && (
         <>
-          <Title style={{ backgroundColor: categoryColor || "red" }}>
-            {categoryTitle}
-          </Title>
-          {categoryExtraLink && (
-            <ExtraLink href={categoryExtraLink.url} target="_blank">
-              {categoryExtraLink.text}
+          <Title style={{ backgroundColor: cor }}>{titulo}</Title>
+          {link_extra && (
+            <ExtraLink href={link_extra.url} target="_blank">
+              {link_extra.text}
             </ExtraLink>
           )}
         </>
@@ -37,7 +35,7 @@ function Carousel({ ignoreFirstVideo, category }) {
               <VideoCard
                 videoTitle={video.titulo}
                 videoURL={video.url}
-                categoryColor={categoryColor}
+                categoryColor={cor}
               />
             </SliderItem>
           );
