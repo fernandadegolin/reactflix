@@ -1,33 +1,20 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
+import React from "react";
+import ReactDOM from "react-dom";
+import "./index.css";
 
-import { BrowserRouter, Switch, Route } from 'react-router-dom'; // Tem a função de não recarregar a página
-import Home from './pages/Home';
-import CadastroVideo from './pages/cadastro/Video';
-import CadastroCategoria from './pages/cadastro/Categoria';
-import Galeria from './pages/Galeria';
-import Informacao from './pages/Info';
-
-function Pagina404() {
-  return (
-    <div>
-      Página 404
-    </div>
-  );
-}
+import { BrowserRouter, Switch, Route } from "react-router-dom"; // Tem a função de não recarregar a página
+import Home from "./pages/Home";
+import Galeria from "./pages/Galeria";
+import Informacao from "./pages/Info";
 
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route path="/" component={Home} exact />
-      <Route path="/galeria" component={Galeria}/>
-      <Route path="/info" component={Informacao}/>
-      <Route path="/cadastro/video" component={CadastroVideo} />
-      <Route path="/cadastro/categoria" component={CadastroCategoria} />
-      <Route component={Pagina404} />
+      <Route path="/galeria" component={Galeria} />
+      <Route path="/info" component={Informacao} />
     </Switch>
   </BrowserRouter>,
 
-  document.getElementById('root'),
+  document.getElementById("root")
 );
